@@ -1,5 +1,5 @@
 
-A simple brute forst satisfiablity solver.
+A simple brute force satisfiablity solver.
 
 
 Reads from standard input, outputs SATISFIABLE or UNSATISFIABLE or an error.
