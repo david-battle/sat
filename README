@@ -1,0 +1,19 @@
+
+A simple brute forst satisfiablity solver.
+
+
+Reads from standard input, outputs SATISFIABLE or UNSATISFIABLE or an error.
+If satisfiable, also outputs a satisfying assignment; positive number mean
+that variable is true, negative means the corresponding variable is false
+in the satisfying assignment found.
+
+Expects input in standard DIMACS CNF (Conjuction Normal Form).
+
+To Build:
+
+make
+
+
+Usage:
+
+sat < test3.cnf
